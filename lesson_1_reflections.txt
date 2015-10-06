@@ -1,0 +1,10 @@
+¿Cómo es que el ver dos versiones diferentes de un archivo te ayuda a visualizar un error escrito?
+Si el documento inicial presenta información incorrecta y el segundo la correcta nos colabora a un orden con mismas versiones, tener un control de versión para trabajarla.
+
+¿Cómo el tener acceso al historial completo de un arcvhivo te hace más eficiente como programador a largo termino?
+Porque te pertime tener un mayor control de versiones y saber el proceso de cambios que tiene el archivo.
+
+¿Cuáles crees que sean los pros y los contras de elegir cuando hacer un commit de forma manual (como haces con git), contra lo cambios que hagan de forma automática (como google docs lo hace)?
+Unos de los pros es que te permite tener información relevante detallada de los cambios realizados actualizados. Los cambios de forma automática puedes guardar información no relevante.
+
+¿Por qué crees que algunos sistemas de control de versiones permitan gardar los cambios de multiples archivos en un commit, mientras otros como Google Docs manejan cada archivo de forma separada?
